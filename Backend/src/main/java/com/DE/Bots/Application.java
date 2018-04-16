@@ -1,15 +1,15 @@
 /**
  * 
  */
-package com.bolt.license;
+package com.DE.Bots;
 
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 
-import com.bolt.license.config.DataConfig;
-import com.bolt.license.config.RestApiConfig;
-import com.bolt.license.config.WebMVCConfig;
+import com.DE.Bots.Config.DataConfig;
+import com.DE.Bots.Config.RestApiConfig;
+import com.DE.Bots.Config.WebMVCConfig;
 
 @SpringBootApplication
 public class Application extends SpringBootServletInitializer {
