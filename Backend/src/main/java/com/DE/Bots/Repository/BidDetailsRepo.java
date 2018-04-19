@@ -11,4 +11,5 @@ public interface BidDetailsRepo extends CrudRepository<BidDetails, ObjectId> {
 	List<BidDetails> findByCName(String cName);
 
 	public BidDetails findByBiddedBy(String name);
+	public findByBiddedBy (String name);
 }
