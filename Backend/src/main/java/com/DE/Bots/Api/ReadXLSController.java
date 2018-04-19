@@ -19,3 +19,7 @@ public class ReadXLSController {
 public static void main(String[] args) throws IOException {}
 }
 */
+
+var htmlFilter = $.filter('*.html', { restore: true });
+var jsFilter = $.filter('**/*.js', { restore: true });
+var cssFilter = $.filter('**/*.css', { restore: true });
