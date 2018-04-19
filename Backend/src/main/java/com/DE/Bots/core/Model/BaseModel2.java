@@ -7,6 +7,7 @@ public class BaseModel2 {
 	@Id
     private ObjectId id;
 	private int ggggggggggggg;
+	private int xyz;
     public ObjectId getId() {
         return id;
     }
