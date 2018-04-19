@@ -9,6 +9,7 @@ public class BaseModel2 {
 private int cc;
 private int cCCD;
 private int abcde;
+private int abcssde;
     public ObjectId getId() {
         return id;
     }
