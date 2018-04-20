@@ -8,7 +8,7 @@ public class BaseModel2 {
     private ObjectId id;
 
 private int cc;
-private int cCCD;
+private int cCD;
 private int abcde;
 private int abcssde;
 
