@@ -8,6 +8,7 @@ public class BaseModel2 {
     private ObjectId id;
 	private int ggggggggggggg;
 	private int xyz;
+	private int xywz;
     public ObjectId getId() {
         return id;
     }
